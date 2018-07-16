@@ -1,5 +1,4 @@
-var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'and skittles.']
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'and skittles.'];
 
-var addElementToBeginningOfArray ["NY","CA"]
-["TX", ... addElementToBeginningOfArray]
-addElementToBeginningOfArray
+var addElementToBeginningOfArray ["NY","CA"];
+
